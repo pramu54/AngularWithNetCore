@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\AngularWithASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE46C62-43DB-41F6-BB87-4728DFE721D6}|angularwithasp.client\\angularwithasp.client.esproj|d:\\kerja\\padepokan79\\kelas teknologi\\gap analysis\\net core\\angularwithasp\\angularwithasp.client\\src\\app\\players\\positions.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{ADE46C62-43DB-41F6-BB87-4728DFE721D6}|angularwithasp.client\\angularwithasp.client.esproj|solutionrelative:angularwithasp.client\\src\\app\\players\\positions.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE46C62-43DB-41F6-BB87-4728DFE721D6}|angularwithasp.client\\angularwithasp.client.esproj|d:\\kerja\\padepokan79\\kelas teknologi\\gap analysis\\net core\\angularwithasp\\angularwithasp.client\\src\\app\\players\\create\\create.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{ADE46C62-43DB-41F6-BB87-4728DFE721D6}|angularwithasp.client\\angularwithasp.client.esproj|solutionrelative:angularwithasp.client\\src\\app\\players\\create\\create.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE46C62-43DB-41F6-BB87-4728DFE721D6}|angularwithasp.client\\angularwithasp.client.esproj|d:\\kerja\\padepokan79\\kelas teknologi\\gap analysis\\net core\\angularwithasp\\angularwithasp.client\\src\\app\\players\\details\\details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADE46C62-43DB-41F6-BB87-4728DFE721D6}|angularwithasp.client\\angularwithasp.client.esproj|solutionrelative:angularwithasp.client\\src\\app\\players\\details\\details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE46C62-43DB-41F6-BB87-4728DFE721D6}|angularwithasp.client\\angularwithasp.client.esproj|d:\\kerja\\padepokan79\\kelas teknologi\\gap analysis\\net core\\angularwithasp\\angularwithasp.client\\src\\app\\players\\details\\details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{ADE46C62-43DB-41F6-BB87-4728DFE721D6}|angularwithasp.client\\angularwithasp.client.esproj|solutionrelative:angularwithasp.client\\src\\app\\players\\details\\details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE46C62-43DB-41F6-BB87-4728DFE721D6}|angularwithasp.client\\angularwithasp.client.esproj|d:\\kerja\\padepokan79\\kelas teknologi\\gap analysis\\net core\\angularwithasp\\angularwithasp.client\\src\\app\\players\\edit\\edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADE46C62-43DB-41F6-BB87-4728DFE721D6}|angularwithasp.client\\angularwithasp.client.esproj|solutionrelative:angularwithasp.client\\src\\app\\players\\edit\\edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE46C62-43DB-41F6-BB87-4728DFE721D6}|angularwithasp.client\\angularwithasp.client.esproj|d:\\kerja\\padepokan79\\kelas teknologi\\gap analysis\\net core\\angularwithasp\\angularwithasp.client\\src\\app\\menu\\menu.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{ADE46C62-43DB-41F6-BB87-4728DFE721D6}|angularwithasp.client\\angularwithasp.client.esproj|solutionrelative:angularwithasp.client\\src\\app\\menu\\menu.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "positions.service.ts",
+              "DocumentMoniker": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\AngularWithASP\\angularwithasp.client\\src\\app\\players\\positions.service.ts",
+              "RelativeDocumentMoniker": "angularwithasp.client\\src\\app\\players\\positions.service.ts",
+              "ToolTip": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\AngularWithASP\\angularwithasp.client\\src\\app\\players\\positions.service.ts",
+              "RelativeToolTip": "angularwithasp.client\\src\\app\\players\\positions.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-15T13:08:40.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "create.component.ts",
+              "DocumentMoniker": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\AngularWithASP\\angularwithasp.client\\src\\app\\players\\create\\create.component.ts",
+              "RelativeDocumentMoniker": "angularwithasp.client\\src\\app\\players\\create\\create.component.ts",
+              "ToolTip": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\AngularWithASP\\angularwithasp.client\\src\\app\\players\\create\\create.component.ts",
+              "RelativeToolTip": "angularwithasp.client\\src\\app\\players\\create\\create.component.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-15T13:06:18.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "details.component.ts",
+              "DocumentMoniker": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\AngularWithASP\\angularwithasp.client\\src\\app\\players\\details\\details.component.ts",
+              "RelativeDocumentMoniker": "angularwithasp.client\\src\\app\\players\\details\\details.component.ts",
+              "ToolTip": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\AngularWithASP\\angularwithasp.client\\src\\app\\players\\details\\details.component.ts",
+              "RelativeToolTip": "angularwithasp.client\\src\\app\\players\\details\\details.component.ts",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-15T12:49:08.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "details.component.html",
+              "DocumentMoniker": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\AngularWithASP\\angularwithasp.client\\src\\app\\players\\details\\details.component.html",
+              "RelativeDocumentMoniker": "angularwithasp.client\\src\\app\\players\\details\\details.component.html",
+              "ToolTip": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\AngularWithASP\\angularwithasp.client\\src\\app\\players\\details\\details.component.html",
+              "RelativeToolTip": "angularwithasp.client\\src\\app\\players\\details\\details.component.html",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-15T12:50:58.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "edit.component.html",
+              "DocumentMoniker": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\AngularWithASP\\angularwithasp.client\\src\\app\\players\\edit\\edit.component.html",
+              "RelativeDocumentMoniker": "angularwithasp.client\\src\\app\\players\\edit\\edit.component.html",
+              "ToolTip": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\AngularWithASP\\angularwithasp.client\\src\\app\\players\\edit\\edit.component.html",
+              "RelativeToolTip": "angularwithasp.client\\src\\app\\players\\edit\\edit.component.html",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-15T12:54:58.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "menu.component.ts",
+              "DocumentMoniker": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\AngularWithASP\\angularwithasp.client\\src\\app\\menu\\menu.component.ts",
+              "RelativeDocumentMoniker": "angularwithasp.client\\src\\app\\menu\\menu.component.ts",
+              "ToolTip": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\AngularWithASP\\angularwithasp.client\\src\\app\\menu\\menu.component.ts",
+              "RelativeToolTip": "angularwithasp.client\\src\\app\\menu\\menu.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-15T12:02:41.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
